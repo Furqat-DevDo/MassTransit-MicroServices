@@ -17,6 +17,11 @@
     </Content>
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Folder Include="Email\Consumers\" />
+  </ItemGroup>
+
   </ItemGroup>
 
 

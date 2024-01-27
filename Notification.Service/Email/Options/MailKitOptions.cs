@@ -1,6 +1,3 @@
 ﻿namespace Notification.Service.Email.Options;
 
-public class MailKitOptions
-{
-    
-}
+public record MailKitOptions();
